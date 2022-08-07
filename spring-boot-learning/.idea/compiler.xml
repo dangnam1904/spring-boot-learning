@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Annotation profile for spring-boot-learning" enabled="true">
+        <sourceOutputDir name="../target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-7-spring-application-properties-@Value" />
+        <module name="spring-boot-14-restful-api-@RestController-@RequestBody-@PathVariable" />
+        <module name="spring-boot-2-helloworld-@Primary - @Qualifier" />
+        <module name="spring-boot-12-jpa-method-and-@Query-@Param" />
+        <module name="spring-boot-15-@ControllerAdvice-@RestControllerAdvice-@ExceptionHandler-@ResponseStatus" />
+        <module name="spring-boot-@Conditional" />
+        <module name="spring-boot-4-@Component-@Service-@Repository" />
+        <module name="spring-boot-16-@ConfigurationProperties" />
+        <module name="spring-boot-@Lazy-Anotation" />
+        <module name="spring-boot-@EventListener-@Async" />
+        <module name="spring-boot-8-@Controller-web-helloworld" />
+        <module name="spring-boot-6-@configuration-@Bean" />
+        <module name="spring-boot-5-Component-Scan" />
+        <module name="spring-boot-@Conditional-2-custom-conditional" />
+        <module name="spring-boot-3-bean-life-cycle-@PostConstruct-@PreDestroy" />
+        <module name="spring-boot-10-@PostMapping-@ModelAttribute-thymeleaf" />
+      </profile>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="basic-dependency-loosely-coupled" />
+        <module name="spring-boot-17-spring-profiles" />
+        <module name="jpa-hibernate-one-to-many" />
+        <module name="spring-boot-18-testing-in-spring-boot" />
+        <module name="spring-cloud-config-server" />
+        <module name="test-mockito-basic" />
+        <module name="spring-boot-13-spring-boot-thymeleaf-mysql-web" />
+        <module name="spring-boot-webflux" />
+        <module name="spring-boot-19-testing-in-spring-boot-2" />
+        <module name="spring-security-example" />
+        <module name="spring-boot-9-thymleaf" />
+        <module name="spring-boot-helloworld" />
+        <module name="spring-boot-jpa-auditing" />
+        <module name="jpa-hibernate-many-to-many" />
+        <module name="spring-security-hibernate-jwt" />
+        <module name="spring-boot-application-context-events" />
+        <module name="jpa-hibernate-pageable" />
+        <module name="spring-boot-swagger3-openapi3" />
+        <module name="jpa-hibernate-custom-validation" />
+        <module name="jpa-hibernate-criteria" />
+        <module name="spring-configuration-properties" />
+        <module name="spring-boot-swagger2" />
+        <module name="jpa-hibernate-one-to-one" />
+        <module name="hibernate-and-hibernate-only" />
+        <module name="spring-boot-11-JPA-MySQL" />
+        <module name="spring-cloud-config-client" />
+        <module name="jpa-hibernate-specifications" />
+        <module name="spring-security-hibernate" />
+        <module name="spring-redis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="basic-dependency-loosely-coupled" target="1.8" />
+      <module name="hibernate-and-hibernate-only" target="1.8" />
+      <module name="jpa-hibernate-criteria" target="1.8" />
+      <module name="jpa-hibernate-custom-validation" target="1.8" />
+      <module name="jpa-hibernate-many-to-many" target="1.8" />
+      <module name="jpa-hibernate-one-to-many" target="1.8" />
+      <module name="jpa-hibernate-one-to-one" target="1.8" />
+      <module name="jpa-hibernate-pageable" target="1.8" />
+      <module name="jpa-hibernate-specifications" target="1.8" />
+      <module name="spring-boot-10-@PostMapping-@ModelAttribute-thymeleaf" target="1.8" />
+      <module name="spring-boot-11-JPA-MySQL" target="1.8" />
+      <module name="spring-boot-12-jpa-method-and-@Query-@Param" target="1.8" />
+      <module name="spring-boot-13-spring-boot-thymeleaf-mysql-web" target="1.8" />
+      <module name="spring-boot-14-restful-api-@RestController-@RequestBody-@PathVariable" target="1.8" />
+      <module name="spring-boot-15-@ControllerAdvice-@RestControllerAdvice-@ExceptionHandler-@ResponseStatus" target="1.8" />
+      <module name="spring-boot-16-@ConfigurationProperties" target="1.8" />
+      <module name="spring-boot-17-spring-profiles" target="1.8" />
+      <module name="spring-boot-18-testing-in-spring-boot" target="1.8" />
+      <module name="spring-boot-19-testing-in-spring-boot-2" target="1.8" />
+      <module name="spring-boot-2-helloworld-@Primary - @Qualifier" target="1.8" />
+      <module name="spring-boot-3-bean-life-cycle-@PostConstruct-@PreDestroy" target="1.8" />
+      <module name="spring-boot-4-@Component-@Service-@Repository" target="1.8" />
+      <module name="spring-boot-5-Component-Scan" target="1.8" />
+      <module name="spring-boot-6-@configuration-@Bean" target="1.8" />
+      <module name="spring-boot-7-spring-application-properties-@Value" target="1.8" />
+      <module name="spring-boot-8-@Controller-web-helloworld" target="1.8" />
+      <module name="spring-boot-9-thymleaf" target="1.8" />
+      <module name="spring-boot-@Conditional" target="1.8" />
+      <module name="spring-boot-@Conditional-2-custom-conditional" target="1.8" />
+      <module name="spring-boot-@EventListener-@Async" target="1.8" />
+      <module name="spring-boot-@Lazy-Anotation" target="1.8" />
+      <module name="spring-boot-application-context-events" target="1.8" />
+      <module name="spring-boot-helloworld" target="1.8" />
+      <module name="spring-boot-jpa-auditing" target="1.8" />
+      <module name="spring-boot-learning" target="1.8" />
+      <module name="spring-boot-swagger2" target="1.8" />
+      <module name="spring-boot-swagger3-openapi3" target="1.8" />
+      <module name="spring-boot-webflux" target="1.8" />
+      <module name="spring-cloud-config-client" target="1.8" />
+      <module name="spring-cloud-config-server" target="1.8" />
+      <module name="spring-configuration-properties" target="1.8" />
+      <module name="spring-redis" target="1.8" />
+      <module name="spring-security-example" target="1.8" />
+      <module name="spring-security-hibernate" target="1.8" />
+      <module name="spring-security-hibernate-jwt" target="1.8" />
+      <module name="test-mockito-basic" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="basic-dependency-loosely-coupled" options="-parameters" />
+      <module name="hibernate-and-hibernate-only" options="-parameters" />
+      <module name="jpa-hibernate-criteria" options="-parameters" />
+      <module name="jpa-hibernate-custom-validation" options="-parameters" />
+      <module name="jpa-hibernate-many-to-many" options="-parameters" />
+      <module name="jpa-hibernate-one-to-many" options="-parameters" />
+      <module name="jpa-hibernate-one-to-one" options="-parameters" />
+      <module name="jpa-hibernate-pageable" options="-parameters" />
+      <module name="jpa-hibernate-specifications" options="-parameters" />
+      <module name="spring-boot-10-@PostMapping-@ModelAttribute-thymeleaf" options="-parameters" />
+      <module name="spring-boot-11-JPA-MySQL" options="-parameters" />
+      <module name="spring-boot-12-jpa-method-and-@Query-@Param" options="-parameters" />
+      <module name="spring-boot-13-spring-boot-thymeleaf-mysql-web" options="-parameters" />
+      <module name="spring-boot-14-restful-api-@RestController-@RequestBody-@PathVariable" options="-parameters" />
+      <module name="spring-boot-15-@ControllerAdvice-@RestControllerAdvice-@ExceptionHandler-@ResponseStatus" options="-parameters" />
+      <module name="spring-boot-16-@ConfigurationProperties" options="-parameters" />
+      <module name="spring-boot-17-spring-profiles" options="-parameters" />
+      <module name="spring-boot-18-testing-in-spring-boot" options="-parameters" />
+      <module name="spring-boot-19-testing-in-spring-boot-2" options="-parameters" />
+      <module name="spring-boot-2-helloworld-@Primary - @Qualifier" options="-parameters" />
+      <module name="spring-boot-3-bean-life-cycle-@PostConstruct-@PreDestroy" options="-parameters" />
+      <module name="spring-boot-4-@Component-@Service-@Repository" options="-parameters" />
+      <module name="spring-boot-5-Component-Scan" options="-parameters" />
+      <module name="spring-boot-6-@configuration-@Bean" options="-parameters" />
+      <module name="spring-boot-7-spring-application-properties-@Value" options="-parameters" />
+      <module name="spring-boot-8-@Controller-web-helloworld" options="-parameters" />
+      <module name="spring-boot-9-thymleaf" options="-parameters" />
+      <module name="spring-boot-@Conditional" options="-parameters" />
+      <module name="spring-boot-@Conditional-2-custom-conditional" options="-parameters" />
+      <module name="spring-boot-@EventListener-@Async" options="-parameters" />
+      <module name="spring-boot-@Lazy-Anotation" options="-parameters" />
+      <module name="spring-boot-application-context-events" options="-parameters" />
+      <module name="spring-boot-helloworld" options="-parameters" />
+      <module name="spring-boot-jpa-auditing" options="-parameters" />
+      <module name="spring-boot-swagger2" options="-parameters" />
+      <module name="spring-boot-swagger3-openapi3" options="-parameters" />
+      <module name="spring-boot-webflux" options="-parameters" />
+      <module name="spring-cloud-config-client" options="-parameters" />
+      <module name="spring-cloud-config-server" options="-parameters" />
+      <module name="spring-configuration-properties" options="-parameters" />
+      <module name="spring-redis" options="-parameters" />
+      <module name="spring-security-example" options="-parameters" />
+      <module name="spring-security-hibernate" options="-parameters" />
+      <module name="spring-security-hibernate-jwt" options="-parameters" />
+      <module name="test-mockito-basic" options="-parameters" />
+    </option>
+  </component>
+</project>

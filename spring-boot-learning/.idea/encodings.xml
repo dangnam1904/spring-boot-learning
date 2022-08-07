@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/basic-dependency-loosely-coupled/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/hibernate-and-hibernate-only/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/jpa-hibernate-criteria/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/jpa-hibernate-custom-validation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/jpa-hibernate-many-to-many/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/jpa-hibernate-one-to-many/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/jpa-hibernate-one-to-one/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/jpa-hibernate-pageable/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/jpa-hibernate-specifications/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/spring-boot-1-helloworld-@Component-@Autowired/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/spring-boot-11-JPA-MySQL/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/spring-boot-13-spring-boot-thymeleaf-mysql-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/spring-boot-17-spring-profiles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/spring-boot-18-testing-in-spring-boot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/spring-boot-19-testing-in-spring-boot-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/spring-boot-9-thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/spring-boot-application-context-events/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/spring-boot-jpa-auditing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/spring-boot-swagger2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/spring-boot-swagger3-openapi3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/spring-boot-webflux/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/spring-cloud-config-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/spring-cloud-config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/spring-configuration-properties/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/spring-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/spring-security-example/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/spring-security-hibernate-jwt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/spring-security-hibernate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-learning-master/test-mockito-basic/src/main/java" charset="UTF-8" />
+  </component>
+</project>
